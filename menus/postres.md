@@ -27,3 +27,14 @@ Bolitas de masa choux rellenas de crema o helado y cubiertas con chocolate.
 
 - **Baklava** 
 – Postre de Medio Oriente con capas de masa filo, frutos secos y miel.
+
+## bebidas principales
+**Bebidas alcohólicas dulces**:
+- **Vino de Oporto**
+- **Vino dulce Moscatel**
+- **Pedro Ximénez (vino de Jerez)**
+- **Limoncello (licor de limón italiano)**
+- **Amaretto (licor de almendras italiano)**
+- **Baileys (licor de crema irlandés)**
+- **Licor de café**
+- **Sambuca (italiano, con sabor a anís)**
