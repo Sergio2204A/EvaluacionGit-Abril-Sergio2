@@ -33,3 +33,5 @@ Una bebida destilada que puede ser de diferentes ingredientes como arroz, cebada
 - **Cerveza**: 
 Las principales marcas son Kirin, Asahi y Sapporo. 
 
+## consejos
+La cocina japonesa, conocida por su estética, equilibrio de sabores y técnicas precisas, ofrece una experiencia culinaria única. Para disfrutarla al máximo, es importante conocer algunos consejos y etiquetas. Aquí te dejo algunos consejos para adentrarte en el mundo de la gastronomía japonesa
