@@ -34,3 +34,6 @@ Consumido principalmente al final de las comidas.
 Una opción refrescante, especialmente para los niños. 
 - **Té**: 
 Tanto frío como caliente, es una bebida popular. 
+
+## consejos
+- La cocina francesa, famosa por su elegancia y sofisticación, ofrece varios consejos para chefs caseros. Estos incluyen dominar las salsas, aprender técnicas de corte con cuchillo, preparar una buena mise en place, no tener miedo de usar cortes menos nobles, mantener la simplicidad y utilizar ingredientes de temporada, y aprovechar la técnica del fraisage. Además, es clave maridar bien los platos y enfocarse en la presentación y decoración para realzar la experiencia culinaria. 
