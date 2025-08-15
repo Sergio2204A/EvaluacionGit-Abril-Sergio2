@@ -14,3 +14,22 @@ Mariscos o vegetales rebozados y fritos, crujientes por fuera y suaves por dentr
 Brochetas de pollo a la parrilla, a menudo marinadas en una salsa dulce y salada. 
 - **Tonkatsu**:
 Chuleta de cerdo empanizada y frita, servida con col rallada y salsa tonkatsu. 
+
+## Bebidas Principales
+
+**Bebidas no alcohólicas**:
+- **Té verde (Ocha)**: 
+Es la bebida más común en Japón, con diversas variedades como sencha, genmaicha, hojicha y matcha. 
+- **Ramune**: 
+Una bebida gaseosa refrescante con un sabor distintivo, a menudo servida con una canica en la botella. 
+- **Yakult**: 
+Una bebida probiótica a base de leche fermentada con Lactobacillus casei Shirota, conocida por sus beneficios para la salud intestinal.
+
+**Bebidas alcohólicas**:
+-**Sake**: 
+La bebida alcohólica nacional de Japón, elaborada con arroz fermentado. 
+- **Shōchū**: 
+Una bebida destilada que puede ser de diferentes ingredientes como arroz, cebada, batata, entre otros. 
+- **Cerveza**: 
+Las principales marcas son Kirin, Asahi y Sapporo. 
+
