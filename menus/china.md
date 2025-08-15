@@ -39,3 +39,5 @@ La cerveza Tsingtao es una de las más populares.
 - **Whisky**: 
 Aunque no es tradicional, el whisky está ganando popularidad en China. 
 
+## consejos 
+Para una auténtica experiencia culinaria china, es esencial preparar todos los ingredientes con anticipación y utilizar ingredientes frescos para realzar el sabor de tus platos. Corta la carne a contrapelo para que quede más tierna y marínela con anticipación para mejores resultados. Asegúrate de que el wok esté bien caliente antes de cocinar y, si vas a saltear carne con verduras, cocina la carne primero y resérvala. Utiliza jengibre y ajo para dar sabor, y considera la salsa de soja oscura para un color y sabor más ricos. 
