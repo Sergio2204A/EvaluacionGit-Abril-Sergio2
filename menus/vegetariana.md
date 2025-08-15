@@ -15,3 +15,15 @@ Nuestra tercera idea de recetas vegetarianas populares, una vez más, se encuent
 
 - **MAC AND CHEESE** 
 Nos despedimos, al menos por un rato, del mar Mediterráneo y sus países aledaños para tomar un avión directamente al continente americano, específicamente hacia Estados Unidos para probar esta combinación de macarrones con queso, una receta totalmente vegetariana. 
+
+## bebidas principales
+- **Zumos y licuados**:
+Se pueden preparar con frutas y verduras frescas, como zanahoria, espinacas, fresas, piña, etc. 
+- **Smoothies**:
+Mezclas de frutas, verduras y líquidos (agua, leche vegetal, etc.), a menudo con ingredientes adicionales como semillas o frutos secos. 
+- **Aguas de frutas**:
+Agua infusionada con frutas como limón, pepino, o bayas, o con semillas como la chía. 
+- **Bebidas vegetales**:
+Leche de almendras, soja, avena, arroz, o coco, que pueden usarse solas o en recetas. 
+- **Masala Chai**:
+Té negro con especias como canela, cardamomo, clavo, jengibre, etc. 
