@@ -24,3 +24,6 @@ También conocido como limonada india, el nimbu pani se prepara con jugo de lim�
 Esta bebida se elabora con comino, jengibre, menta, jugo de limón y otras especias. Es conocida por sus propiedades digestivas y refrescantes. 
 - **Thandai**:
 El thandai es una bebida refrescante hecha con leche, nueces (almendras, anacardos, pistachos), semillas (hinojo, amapola, girasol), especias (cardamomo, azafrán) y a veces, pétalos de rosa. 
+
+## consejos 
+La cocina india ofrece una rica variedad de sabores y técnicas. Algunos consejos clave incluyen usar especias enteras, controlar el calor, y aprovechar ingredientes como el yogur y las salsas raita para equilibrar los sabores. También es útil preparar pastas base y salsas con anticipación y congelarlas para ahorrar tiempo. 
