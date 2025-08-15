@@ -27,3 +27,6 @@ Agua infusionada con frutas como limón, pepino, o bayas, o con semillas como la
 Leche de almendras, soja, avena, arroz, o coco, que pueden usarse solas o en recetas. 
 - **Masala Chai**:
 Té negro con especias como canela, cardamomo, clavo, jengibre, etc. 
+
+## consejos
+Para una cocina vegetariana exitosa, es clave la variedad y el equilibrio nutricional. Incorpora muchas frutas, verduras, legumbres, cereales integrales, frutos secos y semillas. Asegúrate de obtener suficiente hierro, calcio, vitamina B12 y omega-3. Aprende a sustituir ingredientes de origen animal por alternativas vegetales, como tofu o tempeh en lugar de carne. 
