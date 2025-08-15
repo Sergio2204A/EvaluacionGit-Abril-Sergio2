@@ -24,3 +24,6 @@ Cócteles como el Old Fashioned, Manhattan, o el Bullshot (un cóctel a base de 
 Aguas de frutas como Jamaica, limón con chía, o pepino son refrescantes y combinan bien con la comida, especialmente en climas cálidos. 
 - **Limonadas y tés helados**:
 Las limonadas caseras o tés helados, ya sean tradicionales o con sabores más elaborados como limoncillo, son opciones refrescantes que pueden complementar bien los sabores de las carnes. 
+
+## consejos 
+Para cocinar carne de manera exitosa, es fundamental mantener la limpieza, evitar la contaminación cruzada, y asegurar que la carne alcance la temperatura interna adecuada. Además, es recomendable dejar reposar la carne antes de cocinarla y salarla al final si se cocina a la plancha o parrilla. 
