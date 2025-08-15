@@ -38,3 +38,18 @@ Bolitas de masa choux rellenas de crema o helado y cubiertas con chocolate.
 - **Baileys (licor de crema irlandés)**
 - **Licor de café**
 - **Sambuca (italiano, con sabor a anís)**
+
+## consejos
+- **Mide con precisión**
+La repostería es una ciencia: usa una báscula de cocina en lugar de tazas o cucharas si es posible.
+No improvises con las proporciones: pequeñas variaciones pueden arruinar la textura o sabor.
+- **Precalienta el horno**
+Asegúrate de que el horno está a la temperatura correcta antes de meter tu postre.
+Usar un termómetro de horno es ideal, ya que muchos hornos no son 100 % precisos.
+- **Usa ingredientes de calidad**
+Ingredientes como el chocolate, mantequilla, vainilla o frutas frescas hacen una gran diferencia en el resultado final.
+Evita productos “light” o de baja calidad, ya que pueden cambiar sabor o textura.
+- **Temperatura de los ingredientes**
+Muchos postres requieren ingredientes a temperatura ambiente, especialmente huevos, mantequilla y leche. Sácalos del refrigerador con tiempo.
+- **No abras el horno antes de tiempo**
+Hacerlo puede hacer que bizcochos, soufflés o merengues se bajen. Espera al menos el 70–80 % del tiempo de cocción antes de abrirlo.
