@@ -14,3 +14,21 @@ Un plato de sémola de trigo con verduras y carne, típico del norte de África.
 Un plato griego con capas de berenjenas, carne picada y bechamel, similar a una lasaña. 
 - **Gazpacho**:
 Sopa fría de tomate y otras verduras crudas, típica de Andalucía. 
+
+## bebidas principales
+**Bebidas alcohólicas**:
+- **Vino**:
+Un elemento central de la dieta mediterránea, especialmente el vino tinto, que se consume con moderación y a menudo se combina con las comidas para realzar sus sabores. 
+- **Licores**:
+Variedades regionales como el Ouzo griego, el Limoncello italiano, y el Orujo español son comunes. El rakia, un licor de frutas, también es popular en Montenegro. 
+- **Cócteles**:
+El Agua de Valencia, hecho con zumo de naranja, cava, vodka y ginebra, es un ejemplo de cóctel mediterráneo refrescante. 
+- **Anís**:
+Bebidas con anís como el Pastis y absenta francesa, rakı turco, ouzo griego, Sambuca italiana, Anisado español, Arak levantino y Anís argelino son comunes en la región.
+**Bebidas sin alcohol**:
+- **Agua**:
+La bebida más esencial en la dieta mediterránea, consumida en abundancia. 
+- **Bebidas cítricas**:
+Zumos de naranja, limonada de lavanda y otras bebidas a base de frutas cítricas son populares, especialmente en verano. 
+- **Horchata**:
+Una bebida tradicional hecha de chufa, especialmente popular en España. 
