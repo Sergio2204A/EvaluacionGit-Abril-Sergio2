@@ -32,3 +32,6 @@ La bebida más esencial en la dieta mediterránea, consumida en abundancia.
 Zumos de naranja, limonada de lavanda y otras bebidas a base de frutas cítricas son populares, especialmente en verano. 
 - **Horchata**:
 Una bebida tradicional hecha de chufa, especialmente popular en España. 
+
+## consejos
+La cocina mediterránea, conocida por sus beneficios para la salud, se basa en alimentos frescos, de temporada y ricos en nutrientes. Para disfrutar de ella, es recomendable priorizar las frutas, verduras, cereales integrales, legumbres y grasas saludables como el aceite de oliva. También se sugiere incluir pescado, aves, huevos y productos lácteos en cantidades moderadas, limitando el consumo de carne roja y alimentos procesados. 
